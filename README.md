@@ -1,4 +1,4 @@
-# Alien Contamination
+# Alien Alien Contamination
 
 The script obtain the frequency of nucleotides
 
